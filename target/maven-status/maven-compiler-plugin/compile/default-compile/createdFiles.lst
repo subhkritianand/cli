@@ -1,0 +1,6 @@
+com/tomtom/cli/demo/shell/CliPromptProvider.class
+com/tomtom/cli/demo/shell/ShellHelper.class
+com/tomtom/cli/demo/DemoApplication.class
+com/tomtom/cli/demo/shell/PromptColor.class
+com/tomtom/cli/demo/config/SpringShellConfig.class
+com/tomtom/cli/demo/command/UserCommand.class
